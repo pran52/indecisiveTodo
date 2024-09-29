@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/indecisiveTodo/static/css/main.86ace7e3.css",
+    "main.js": "/indecisiveTodo/static/js/main.5c60f135.js",
+    "static/js/453.7cfb8977.chunk.js": "/indecisiveTodo/static/js/453.7cfb8977.chunk.js",
+    "static/media/woop.png": "/indecisiveTodo/static/media/woop.029a0b6cdb5389cd0c95.png",
+    "index.html": "/indecisiveTodo/index.html",
+    "main.86ace7e3.css.map": "/indecisiveTodo/static/css/main.86ace7e3.css.map",
+    "main.5c60f135.js.map": "/indecisiveTodo/static/js/main.5c60f135.js.map",
+    "453.7cfb8977.chunk.js.map": "/indecisiveTodo/static/js/453.7cfb8977.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86ace7e3.css",
+    "static/js/main.5c60f135.js"
+  ]
+}
